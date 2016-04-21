@@ -11,7 +11,7 @@
 
 1. **README.md contains:**
     * name of the project
-    * names of the teammember
+    * names of the teammember: Vadim Kozlov, Dima
     * purpose of the project (3-4 sentences what problem you are trying to solve);
     * description of the project (target group – your customers/clients, how you differ from other apps – describe 2-3 similar applications/web services);
     * functionalities of the app
